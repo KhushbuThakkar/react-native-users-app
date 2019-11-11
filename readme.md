@@ -1,8 +1,20 @@
-start android :
-react-native run-android
-react-native run-android --variant=release
+# Project Title
 
-test release :
+React native application with redux - view all users by type with API integration
+
+### Running
+
+```
+react-native run-android
+```
+
+```
+react-native run-android --variant=release
+```
+
+## APK
+
+release :
 ./gradlew assembleRelease
 
 generated APK :
@@ -12,5 +24,12 @@ clean :
 cd android
 gradlew clean
 
-list adb devices :
-adb devices
+## Built With
+
+- [ReactNative](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+
+## Authors
+
+- **Khushbu Thakkar** - _Initial work_ - [PurpleBooth](https://github.com/KhushbuThakkar)
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
