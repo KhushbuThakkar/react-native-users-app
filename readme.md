@@ -2,8 +2,8 @@
 
 React native application with redux - view all users by type with API integration
 
-![screenshot1](https://github.com/KhushbuThakkar/react-native-users-app/blob/master/Screenshot_1573460358.png) {:height="400px" width="200px"}
-![screenshot2](https://github.com/KhushbuThakkar/react-native-users-app/blob/master/Screenshot_1573460368.png){:height="400px" width="200px"}
+<img src="https://github.com/KhushbuThakkar/react-native-users-app/blob/master/Screenshot_1573460358.png" width="200" height="400">
+<img src="https://github.com/KhushbuThakkar/react-native-users-app/blob/master/Screenshot_1573460368.png" width="200" height="400">
 
 ### Running
 
