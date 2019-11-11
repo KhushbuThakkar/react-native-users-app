@@ -42,7 +42,6 @@ class UsersContainer extends Component {
         <Loader isloading={isloading} />
         <Header />
         <Tick onCheckFilter={this.onCheckFilter} filters={filters} />
-        <Text>hey hey</Text>
         <View style={styles.flatlistContainer}>
           <FlatList
             data={users}
