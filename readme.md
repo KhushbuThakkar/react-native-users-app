@@ -30,6 +30,4 @@ gradlew clean
 
 ## Authors
 
-- **Khushbu Thakkar** - _Initial work_ - [PurpleBooth](https://github.com/KhushbuThakkar)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+- **Khushbu Thakkar** - _Initial work_ - [Git](https://github.com/KhushbuThakkar)
