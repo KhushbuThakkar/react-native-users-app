@@ -2,6 +2,8 @@
 
 React native application with redux - view all users by type with API integration
 
+![screenshots](https://raw.githubusercontent.com/khushbuThakkar/)
+
 ### Running
 
 ```
